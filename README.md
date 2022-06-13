@@ -34,3 +34,9 @@ If you would like to reproduce our results, please follow these steps.
 If you would like to evaluate our entire model parameters through quantitative metrics, please follow these steps.
 
 1.Download the results of our experiments and place them in any path.
+
+2.The evaluation metric code has been placed in the eval_code folder, please use MATLAB to open it.
+
+3.Modify the path to the dataset in main.m.
+
+4.run main.m.
