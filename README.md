@@ -33,4 +33,4 @@ If you would like to reproduce our results, please follow these steps.
 ## Evaluation
 If you would like to evaluate our entire model parameters through quantitative metrics, please follow these steps.
 
-1. Download the results of our experiments and place them in any path.
+1.Download the results of our experiments and place them in any path.
