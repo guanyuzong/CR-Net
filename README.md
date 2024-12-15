@@ -14,7 +14,7 @@ opencv-python==4.5.5.64
 ## Training
 If you want to retrain our network, we recommend that you follow these steps.
 
-1.Download the dataset and place it in the CR_dataset folder.[code:0617]https://pan.baidu.com/s/1PzjLo43pigzhCm-CxTyDIw
+1.Download the dataset and place it in the CR_dataset folder.[code:0617][https://pan.baidu.com/s/1PzjLo43pigzhCm-CxTyDIw](https://pan.baidu.com/s/1kVxqbWBqn5qRtQad4dDuhw?pwd=0617)
 
 2.Modify the training parameters of the model in options.py. Such as batchsize, gpu_id.
 
