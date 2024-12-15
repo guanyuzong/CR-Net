@@ -27,7 +27,7 @@ If you would like to reproduce our results, please follow these steps.
 
 2.Open a terminal and run python3 CRNet_test.py. 
 
-3.We also provide links to download the results of our experiments.[code:0617]https://pan.baidu.com/s/1LkruTi2hTGtbbX4HKr4wkA
+3.We also provide links to download the results of our experiments.[code:0617]https://pan.baidu.com/s/1LkruTi2hTGtbbX4HKr4wkA](https://pan.baidu.com/s/1Ay9ZNa5rWsMonbENMlgQcg?pwd=0617)
 
 
 ## Evaluation
