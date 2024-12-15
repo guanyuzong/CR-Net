@@ -23,11 +23,11 @@ If you want to retrain our network, we recommend that you follow these steps.
 ## Testing
 If you would like to reproduce our results, please follow these steps.
 
-1.We provide a link to download the parameters of the trained model, put it in the model_pths folder.[code:0617](https://pan.baidu.com/s/1Fc2A5aCcFyNpVGHM5yhiuQ?pwd=0617)](https://pan.baidu.com/s/1Fc2A5aCcFyNpVGHM5yhiuQ?pwd=0617)
+1.We provide a link to download the parameters of the trained model, put it in the model_pths folder. [0617]https://pan.baidu.com/s/1A6g4Ql_Q3dvMzSNl-8GXuw]
 
 2.Open a terminal and run python3 CRNet_test.py. 
 
-3.We also provide links to download the results of our experiments.[code:0617]https://pan.baidu.com/s/1LkruTi2hTGtbbX4HKr4wkA]
+3.We also provide links to download the results of our experiments.[code:0617] https://pan.baidu.com/s/1LkruTi2hTGtbbX4HKr4wkA]
 
 
 ## Evaluation
